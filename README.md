@@ -3,14 +3,18 @@
 
 # **Executive Summary**  
 This project focuses on conducting **Exploratory Data Analysis (EDA)** on an **Insurance Claims dataset**.  
+
 By examining various factors affecting **health insurance claims**, we aim to uncover **trends and patterns** that impact claim amounts.  
+
 The insights derived from this analysis will assist **insurance companies, healthcare providers, and policymakers** in making well-informed decisions.  
 
 ---
 
 # **Problem Statement**  
 The rising cost of healthcare has made **insurance claims a critical financial component** for individuals and insurers alike.  
+
 Challenges include analyzing multiple attributes such as **age, BMI, smoking status, blood pressure levels, and regional influences** to understand how different factors contribute to claim amounts.  
+
 A **precise and data-driven analysis** is crucial for optimizing risk assessment, policy pricing, and healthcare planning.  
 
 ---
