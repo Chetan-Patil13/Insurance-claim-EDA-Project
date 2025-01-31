@@ -1,7 +1,4 @@
 # Insurance-claim-EDA-Project
-
-Here’s a structured **EDA Report** for your **Insurance Claims Analysis**, following the same format you provided:  
-
 ---
 
 # **Executive Summary**  
