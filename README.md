@@ -1,5 +1,5 @@
 <h1 align="center">
-📍 Insurance Claims Analysis  💼💰
+🛡️📋 Insurance Claims Analysis  🤝💰
   
 Detailed EDA Project 🚀
 </h1>
